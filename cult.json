@@ -1,0 +1,57 @@
+[
+  {
+    "id": 101,
+    "coords": [ -23.445316594518, -46.914135381788],
+    "title": "Centro de Memória e Integração Cultural - Cemic",
+    "small": "Endereço, número - bairro",
+    "img": {
+      "src": "/data/images/0101.jpg",
+      "alt": "Centro de Memória e Integração Cultural - Cemic"
+    },
+    "description": "<p>O Centro de Memória e Integração Cultural – CEMIC, homenageia Bertha Moraes Nérici, parnaibana, primeira mulher a se alistar na força expedicionária brasileira – FEB – para a Segunda Guerra Mundial, na qual serviu como enfermeira. O CEMIC organiza e preserva acervos documentais, em diferentes suportes, sobre a história de Santana de Parnaíba e da região e disponibiliza o acervo para exposições e outros eventos de interesse da comunidade.</p>"
+  },
+  {
+    "id": 102,
+    "coords": [-23.445855501268, -46.914010659068],
+    "title": "Igreja Matriz",
+    "small": "Endereço, número - bairro",
+    "img": {
+      "src": "/data/images/0102.jpg",
+      "alt": "Igreja Matriz"
+    },
+    "description": "<p>Na fundação do povoado de Parnaíba, em 1560, é erguida uma capela na margem do rio Tietê em louvor a Santo Antônio. Em 1580 a capela foi reedificada por Suzana Dias em louvor à Santa Ana. Posteriormente, devido a sucessivas inundações, a capela foi transferida para o alto do morro à margem direita do rio. No final do século XIX, no lugar dessa capela, foi construída a igreja que conhecemos hoje.</p>"
+  },
+  {
+    "id": 103,
+    "coords": [-23.445529450642, -46.914294302672],
+    "title": "Casarão Monsenhor Paulo Florêncio da Silveira Camargo",
+    "small": "Endereço, número - bairro",
+    "img": {
+      "src": "/data/images/0103.jpg",
+      "alt": "Casarão Monsenhor Paulo Florêncio da Silveira Camargo"
+    },
+    "description": "<p>O Museu Anhanguera e o Casarão Monsenhor Paulo Florêncio da Silveira Camargo são imóveis da segunda metade do século XVII. Construções remanescentes do Brasil colonial, as paredes e estruturas da casa foram erguidas em taipa de pilão. A exposição permanente é composta por painéis com textos explicativos que retratam a história da cidade. Os imóveis são ambos tombados pelo Instituto do Patrimônio Histórico e Artístico Nacional – IPHAN e pelo Conselho de Defesa do Patrimônio Histórico, Arqueológico, Artístico e Turístico – CONDEPHAAT.</p>"
+  },
+  {
+    "id": 104,
+    "coords": [-23.445643876048, -46.914278209418],
+    "title": "Museu Anhanguera",
+    "small": "Endereço, número - bairro",
+    "img": {
+      "src": "/data/images/0104.jpg",
+      "alt": "Museu Anhanguera"
+    },
+    "description": "<p>O Museu Anhanguera e o Casarão Monsenhor Paulo Florêncio da Silveira Camargo são imóveis da segunda metade do século XVII. Construções remanescentes do Brasil colonial, as paredes e estruturas da casa foram erguidas em taipa de pilão. A exposição permanente é composta por painéis com textos explicativos que retratam a história da cidade. Os imóveis são ambos tombados pelo Instituto do Patrimônio Histórico e Artístico Nacional – IPHAN e pelo Conselho de Defesa do Patrimônio Histórico, Arqueológico, Artístico e Turístico – CONDEPHAAT.</p>"
+  },
+  {
+    "id": 104,
+    "coords": [-23.44597996, -46.91445123],
+    "title": "Coreto Maestro Bilo",
+    "small": "Endereço, número - bairro",
+    "img": {
+      "src": "/data/images/0105.jpg",
+      "alt": "Museu Anhanguera"
+    },
+    "description": "<p>Construído em 1898, possui grades férreas representando claves de Sol. É um dos mais belos monumentos históricos da cidade. O coreto homenageia o maestro parnaibano Severino Dóglio, conhecido popularmente como “maestro Bilo”, responsável pela Corporação Musical Santa Cecília.</p>"
+  }
+]
